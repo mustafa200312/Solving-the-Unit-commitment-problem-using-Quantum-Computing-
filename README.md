@@ -1,0 +1,1 @@
+This project was conducted during a research internship in the summer. Our focus is to solve the Unit commitment problem by turning ready-made equations into QUBO formulation and using the Quantum algorithm QAOA to solve this problem by qiskit tools.
